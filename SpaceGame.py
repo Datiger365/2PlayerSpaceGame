@@ -9,7 +9,7 @@ FPS = 60
 VEL = 5;
 BULLET_VEL = 7
 SPACESHIP_WIDTH, SPACESHIP_HEIGHT = 55, 40
-#yahhsur
+#na
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
